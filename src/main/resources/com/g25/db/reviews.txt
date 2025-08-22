@@ -1,0 +1,58 @@
+[
+  {
+    "sender": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "rating": 5,
+    "vendorId": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "comment": "great seller",
+    "id": "dc736e42-34b5-4509-9f1f-2074ce83d832",
+    "type": "vendor"
+  },
+  {
+    "sender": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "orderId": "0e6a305e-b7ee-46ca-86fc-6f4c2891c919",
+    "rating": 5,
+    "comment": "Great product",
+    "id": "7ab21329-83d5-4767-a128-82ae6a2be4f6",
+    "type": "order"
+  },
+  {
+    "sender": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "orderId": "0e6a305e-b7ee-46ca-86fc-6f4c2891c919",
+    "rating": 5,
+    "comment": "great product",
+    "id": "2b2dd4a5-bcf6-4d76-8f2a-5fb52979d110",
+    "type": "order"
+  },
+  {
+    "sender": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "rating": 5,
+    "comment": "good guy",
+    "runnerId": "eb075356-7ebf-4992-a2ec-2bafb8cd5f31",
+    "id": "292f0bdf-77e8-4fe5-8647-c0c6c010266b",
+    "type": "runner"
+  },
+  {
+    "sender": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "rating": 5,
+    "comment": "deliver fast",
+    "runnerId": "eb075356-7ebf-4992-a2ec-2bafb8cd5f31",
+    "id": "f0bae90a-669d-4063-bc24-35d1647358d1",
+    "type": "runner"
+  },
+  {
+    "sender": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "rating": 4.5,
+    "comment": "nice guy",
+    "runnerId": "28bd222f-1980-495b-ba1b-73c7e78bc2ee",
+    "id": "d3f5f8f3-8b01-4ba3-82a5-df5e029ff3ad",
+    "type": "runner"
+  },
+  {
+    "orderId": "b9a59e4b-de77-4d03-9bcf-b18fd5856ad4",
+    "sender": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "rating": 5,
+    "comment": "Nice food",
+    "id": "5884f1f1-97cd-4dc1-b2da-bc9aaba6f8b2",
+    "type": "order"
+  }
+]

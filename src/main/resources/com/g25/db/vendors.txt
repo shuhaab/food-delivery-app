@@ -1,0 +1,1 @@
+[{"address":"123 street","phone":"123456789","name":"joe","avgRating":5,"id":"255071ae-8463-431a-97e7-0c5718e181c5","email":"joe@gmail.com"},{"address":"123 street","phone":"123456789","name":"john","avgRating":5,"id":"c6545cc6-7fd6-46cf-b07d-284c73eb08e0","email":"john@gmail.com"}]

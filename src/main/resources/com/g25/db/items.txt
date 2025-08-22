@@ -1,0 +1,23 @@
+[
+  {
+    "itemName": "burger",
+    "removed": false,
+    "price": 100,
+    "vendorId": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "id": "d2829dbb-3bcc-4977-9168-fcacc24c343e"
+  },
+  {
+    "itemName": "burger2",
+    "removed": false,
+    "price": 100,
+    "vendorId": "c6545cc6-7fd6-46cf-b07d-284c73eb08e0",
+    "id": "6ed1a11b-8845-4b94-ad88-a49d2f73f4a1"
+  },
+  {
+    "itemName": "burgest",
+    "removed": true,
+    "price": 110,
+    "vendorId": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "id": "eb0b2695-94a3-4b1d-a20f-87ba7f757ad2"
+  }
+]

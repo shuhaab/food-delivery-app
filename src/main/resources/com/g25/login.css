@@ -1,0 +1,35 @@
+#errorLabel {
+  -fx-text-fill: red;
+  -fx-height: 0;
+  -fx-max-height: 0;
+}
+
+.login-label {
+  -fx-font-size: 44px;
+}
+
+.form-container {
+  -fx-background-color: rgb(255, 255, 255, 0.9);  
+
+  -fx-background-radius: 12px;
+  -fx-width: 400px;
+  -fx-max-width: 400px;
+
+  -fx-height: 400px;
+  -fx-max-height: 400px;
+}
+
+.text-field {
+  -fx-pref-width: 200px; 
+
+  -fx-background-color: white;
+  -fx-text-fill: black;
+  -fx-padding: 10px 16px;
+  
+  -fx-border-width: 1px;
+  -fx-border-color: #cccccc;
+  -fx-border-stlye: solid;
+  
+  -fx-background-radius: 8px;
+  -fx-border-radius: 8px;
+}

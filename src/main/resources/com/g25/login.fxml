@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.geometry.Insets?>
+
+<StackPane xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.g25.LoginController">
+    <ImageView>
+        <image>
+               <Image url="@burger.jpg" />
+        </image>
+        <fitWidth>800</fitWidth>
+        <fitHeight>600</fitHeight>
+        <preserveRatio>false</preserveRatio>
+    </ImageView>
+    
+    <VBox alignment="CENTER" spacing="30.0" fillWidth="false" stylesheets="@base.css, @login.css" styleClass="form-container">
+        <Label text="Login" styleClass="login-label"/>
+        
+         <VBox alignment="CENTER" spacing="15.0">
+           <VBox spacing="5.0">
+              <Label text="Username" />
+              <TextField promptText="Type your name" fx:id="nameInput"/>
+           </VBox>
+           <VBox spacing="5.0">
+              <Label text="Password" />
+              <TextField promptText="Type your password" fx:id="passwordInput"/>
+           </VBox>
+           
+           <Button fx:id="primaryButton" text="Login" onAction="#Login" />
+
+           <Label text="Wrong credentials!" fx:id="errorLabel" visible="false"/>
+         </VBox>
+    </VBox>
+</StackPane>

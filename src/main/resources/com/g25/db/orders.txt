@@ -1,0 +1,181 @@
+[
+  {
+    "date": "18-12-2024",
+    "orderType": "delivery",
+    "total": 100,
+    "deliveryFee": 10,
+    "customerId": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "vendorId": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "runnerId": "28bd222f-1980-495b-ba1b-73c7e78bc2ee",
+    "declinedBy": [],
+    "id": "0e6a305e-b7ee-46ca-86fc-6f4c2891c919",
+    "items": [
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e"
+    ],
+    "status": "completed"
+  },
+  {
+    "date": "18-12-2024",
+    "orderType": "dinein",
+    "total": 100,
+    "deliveryFee": 0,
+    "customerId": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "vendorId": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "runnerId": null,
+    "declinedBy": [],
+    "id": "b9a59e4b-de77-4d03-9bcf-b18fd5856ad4",
+    "items": [
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e"
+    ],
+    "status": "completed"
+  },
+  {
+    "date": "19-12-2024",
+    "orderType": "delivery",
+    "total": 100,
+    "deliveryFee": 10,
+    "customerId": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "vendorId": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "runnerId": "28bd222f-1980-495b-ba1b-73c7e78bc2ee",
+    "declinedBy": [],
+    "id": "bbeecf28-f51d-4c08-89b0-3edd60d32b7a",
+    "items": [
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e"
+    ],
+    "status": "wait_runner"
+  },
+  {
+    "date": "20-12-2024",
+    "orderType": "delivery",
+    "total": 100,
+    "deliveryFee": 10,
+    "customerId": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "vendorId": "c6545cc6-7fd6-46cf-b07d-284c73eb08e0",
+    "runnerId": "eb075356-7ebf-4992-a2ec-2bafb8cd5f31",
+    "declinedBy": [],
+    "id": "88e81f94-124d-4b5e-97e8-6a813c48deb1",
+    "items": [
+      "6ed1a11b-8845-4b94-ad88-a49d2f73f4a1"
+    ],
+    "status": "completed"
+  },
+  {
+    "date": "21-12-2024",
+    "orderType": "delivery",
+    "total": 100,
+    "deliveryFee": 10,
+    "customerId": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "vendorId": "c6545cc6-7fd6-46cf-b07d-284c73eb08e0",
+    "runnerId": "eb075356-7ebf-4992-a2ec-2bafb8cd5f31",
+    "declinedBy": [],
+    "id": "4fef233a-247d-44a6-9e15-ea742884075f",
+    "items": [
+      "6ed1a11b-8845-4b94-ad88-a49d2f73f4a1"
+    ],
+    "status": "completed"
+  },
+  {
+    "date": "05-02-2025",
+    "orderType": "delivery",
+    "total": 500,
+    "deliveryFee": 50,
+    "customerId": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "vendorId": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "runnerId": null,
+    "declinedBy": [],
+    "id": "57143503-328a-4667-b2eb-94c80895415a",
+    "items": [
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e",
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e",
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e",
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e",
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e"
+    ],
+    "status": "declined"
+  },
+  {
+    "date": "16-02-2025",
+    "orderType": "delivery",
+    "total": 100,
+    "deliveryFee": 10,
+    "customerId": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "vendorId": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "runnerId": "32629f28-61b7-4df4-8c60-f0338050ea74",
+    "declinedBy": [],
+    "id": "1e7bb4f3-5d40-4cac-9d3a-188080d4d6dd",
+    "items": [
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e"
+    ],
+    "status": "completed"
+  },
+  {
+    "date": "17-02-2025",
+    "orderType": "delivery",
+    "total": 300,
+    "deliveryFee": 30,
+    "customerId": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "vendorId": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "runnerId": "eb075356-7ebf-4992-a2ec-2bafb8cd5f31",
+    "declinedBy": [],
+    "id": "5e84f4a9-5967-4ce0-b0db-8c055ecd7a6f",
+    "items": [
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e",
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e",
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e"
+    ],
+    "status": "completed"
+  },
+  {
+    "date": "17-02-2025",
+    "orderType": "delivery",
+    "total": 510,
+    "deliveryFee": 51,
+    "customerId": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "vendorId": "c6545cc6-7fd6-46cf-b07d-284c73eb08e0",
+    "runnerId": "eb075356-7ebf-4992-a2ec-2bafb8cd5f31",
+    "declinedBy": [],
+    "id": "cb327693-d0e6-4b57-b395-6ed098d3b19d",
+    "items": [
+      "eb0b2695-94a3-4b1d-a20f-87ba7f757ad2",
+      "6ed1a11b-8845-4b94-ad88-a49d2f73f4a1",
+      "6ed1a11b-8845-4b94-ad88-a49d2f73f4a1",
+      "6ed1a11b-8845-4b94-ad88-a49d2f73f4a1",
+      "6ed1a11b-8845-4b94-ad88-a49d2f73f4a1"
+    ],
+    "status": "completed"
+  },
+  {
+    "date": "17-02-2025",
+    "orderType": "delivery",
+    "total": 330,
+    "deliveryFee": 33,
+    "customerId": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "vendorId": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "runnerId": null,
+    "declinedBy": [],
+    "id": "4e493820-7edd-4b2b-8fa4-ecb97fa1d1b5",
+    "items": [
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e",
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e",
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e"
+    ],
+    "status": "declined"
+  },
+  {
+    "date": "20-02-2025",
+    "orderType": "delivery",
+    "total": 100,
+    "deliveryFee": 10,
+    "customerId": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "vendorId": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "runnerId": "32629f28-61b7-4df4-8c60-f0338050ea74",
+    "declinedBy": [
+      "eb075356-7ebf-4992-a2ec-2bafb8cd5f31"
+    ],
+    "id": "690fd2c8-c824-4676-bb97-c01a7276d847",
+    "items": [
+      "d2829dbb-3bcc-4977-9168-fcacc24c343e"
+    ],
+    "status": "wait_runner"
+  }
+]

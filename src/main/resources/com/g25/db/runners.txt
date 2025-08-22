@@ -1,0 +1,41 @@
+[
+  {
+    "address": "123 street",
+    "phone": "123456789",
+    "name": "max",
+    "avgRating": 5,
+    "id": "eb075356-7ebf-4992-a2ec-2bafb8cd5f31",
+    "email": "max@gmail.com",
+    "tasks": [
+      "88e81f94-124d-4b5e-97e8-6a813c48deb1",
+      "4fef233a-247d-44a6-9e15-ea742884075f",
+      "1e7bb4f3-5d40-4cac-9d3a-188080d4d6dd",
+      "5e84f4a9-5967-4ce0-b0db-8c055ecd7a6f",
+      "cb327693-d0e6-4b57-b395-6ed098d3b19d"
+    ]
+  },
+  {
+    "address": "mox street",
+    "phone": "123456789",
+    "name": "mox",
+    "avgRating": 4.5,
+    "id": "28bd222f-1980-495b-ba1b-73c7e78bc2ee",
+    "email": "runner@gmail.com",
+    "tasks": [
+      "0e6a305e-b7ee-46ca-86fc-6f4c2891c919",
+      "bbeecf28-f51d-4c08-89b0-3edd60d32b7a"
+    ]
+  },
+  {
+    "address": "jack street",
+    "phone": "123456789",
+    "name": "jack",
+    "avgRating": 0,
+    "id": "32629f28-61b7-4df4-8c60-f0338050ea74",
+    "email": "jack@gmail.com",
+    "tasks": [
+      "1e7bb4f3-5d40-4cac-9d3a-188080d4d6dd",
+      "690fd2c8-c824-4676-bb97-c01a7276d847"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "toRole": "customer",
+    "id": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "message": "Your order has been accepted"
+  },
+  {
+    "toRole": "customer",
+    "id": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "message": "Your request to top up 50.0 credits has been processed!"
+  },
+  {
+    "toRole": "customer",
+    "id": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "message": "Your order has been declined by the vendor"
+  },
+  {
+    "toRole": "vendor",
+    "id": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "message": "New order placed by customer"
+  },
+  {
+    "toRole": "vendor",
+    "id": "c6545cc6-7fd6-46cf-b07d-284c73eb08e0",
+    "message": "New order placed by customer"
+  },
+  {
+    "toRole": "customer",
+    "id": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "message": "Your order has been accepted by the vendor"
+  },
+  {
+    "toRole": "customer",
+    "id": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "message": "Your order has been accepted by a driver!"
+  },
+  {
+    "toRole": "customer",
+    "id": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "message": "Your order has been completed!"
+  },
+  {
+    "toRole": "customer",
+    "id": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "message": "Your order has been accepted by the vendor"
+  },
+  {
+    "toRole": "customer",
+    "id": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "message": "Your order has been accepted by a driver!"
+  },
+  {
+    "toRole": "customer",
+    "id": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "message": "Your order has been completed!"
+  },
+  {
+    "toRole": "vendor",
+    "id": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "message": "New order placed by customer"
+  },
+  {
+    "toRole": "customer",
+    "id": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "message": "Your order has been declined by the vendor"
+  },
+  {
+    "toRole": "vendor",
+    "id": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "message": "New order placed by customer"
+  },
+  {
+    "toRole": "vendor",
+    "id": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "message": "New order placed by customer"
+  },
+  {
+    "toRole": "vendor",
+    "id": "255071ae-8463-431a-97e7-0c5718e181c5",
+    "message": "New order placed by customer"
+  },
+  {
+    "toRole": "customer",
+    "id": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "message": "Your order has been accepted by the vendor"
+  },
+  {
+    "toRole": "customer",
+    "id": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd",
+    "message": "Your order has been cancelled because there was no runner available."
+  }
+]

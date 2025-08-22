@@ -1,0 +1,9 @@
+[
+  {
+    "id": "33191645-dec1-4467-ab05-891db4fa493c",
+    "name": "bob",
+    "email": "bob@gmail.com",
+    "address": "123 street",
+    "phone": "123456789"
+  }
+]

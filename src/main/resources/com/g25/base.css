@@ -1,0 +1,108 @@
+.root {
+    -fx-background-color: white;
+}
+
+.label {
+    -fx-font-family: "Helvetica", sans-serif;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+}
+
+.button {
+    -fx-font-family: "Helvetica", sans-serif;
+
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-padding: 10px 16px;
+    
+    -fx-border-width: 1px;
+    -fx-border-color: #cccccc;
+    -fx-border-style: solid;
+    
+    -fx-background-radius: 8px;
+    -fx-border-radius: 8px;
+}
+
+.button:hover {
+    -fx-cursor: hand;
+}
+
+.list-view {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-padding: 3px;
+}
+
+/* .list-view:focused {
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+} */
+
+.list-cell {
+    /* -fx-padding: 10px; */
+    -fx-text-fill: black;
+    
+    /* -fx-border-width: 1px;
+    -fx-border-color: #cccccc;
+    -fx-border-style: solid;
+    
+    -fx-background-radius: 8px;
+    -fx-border-radius: 8px; */
+    
+    /* Create two background layers. The first is drawn at 0 inset,
+       and the second is drawn inset by 10px to produce a gap.
+       Both layers share the same color (white) to give a polished look */
+    -fx-background-color: white;
+    /*-fx-background-insets: 0, 10; */
+}
+
+.cell-container {
+    -fx-background-color: white;
+    -fx-border-width: 1px;
+    -fx-border-color: #cccccc;
+    -fx-border-style: solid;
+    -fx-background-radius: 8px;
+    -fx-border-radius: 8px;
+}
+
+.list-cell:filled:selected,
+.list-cell:filled:selected:focused,
+.list-cell:selected {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+ .list-cell:selected:hover{
+    -fx-background-color: white;
+ } 
+
+.list-cell:hover {
+    -fx-background-color: white;
+}
+
+.list-cell:empty {
+    -fx-padding: 2px;
+    -fx-background-color: transparent;
+    -fx-background-insets: 0;
+
+    -fx-border-width: 0;
+    -fx-border-color: transparent;
+    -fx-border-style: none;
+}
+
+.navbar {
+    -fx-background-color: black;
+}
+
+.navbar .label {
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+.active-button {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}

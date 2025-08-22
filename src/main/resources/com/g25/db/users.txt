@@ -1,0 +1,50 @@
+[
+  {
+    "password": "1",
+    "role": "admin",
+    "name": "bob",
+    "id": "33191645-dec1-4467-ab05-891db4fa493c"
+  },
+  {
+    "password": "123",
+    "role": "customer",
+    "name": "dan",
+    "id": "822674cb-55e2-460c-ab2a-3a8ebd2e59bd"
+  },
+  {
+    "password": "1",
+    "role": "vendor",
+    "name": "joe",
+    "id": "255071ae-8463-431a-97e7-0c5718e181c5"
+  },
+  {
+    "password": "123",
+    "role": "vendor",
+    "name": "john",
+    "id": "c6545cc6-7fd6-46cf-b07d-284c73eb08e0"
+  },
+  {
+    "password": "123",
+    "role": "runner",
+    "name": "max",
+    "id": "eb075356-7ebf-4992-a2ec-2bafb8cd5f31"
+  },
+  {
+    "password": "123",
+    "role": "runner",
+    "name": "mox",
+    "id": "28bd222f-1980-495b-ba1b-73c7e78bc2ee"
+  },
+  {
+    "password": "123",
+    "role": "manager",
+    "name": "tom",
+    "id": "fe94ef48-4a8f-47de-974b-4b36ca2394f0"
+  },
+  {
+    "password": "123",
+    "role": "runner",
+    "name": "jack",
+    "id": "32629f28-61b7-4df4-8c60-f0338050ea74"
+  }
+]
